@@ -131,6 +131,7 @@ streamlit run app.py
 
 🏗️ Architecture Overview
 
+
 User Input (Streamlit UI)
         ↓
 -----------------------------------------
