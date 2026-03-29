@@ -129,23 +129,7 @@ streamlit run app.py
 
 ---
 
-🏗️ Architecture Overview
 
-
-User Input (Streamlit UI)
-        ↓
------------------------------------------
-| FIRE Engine (Goal Planning)            |
-| Tax Engine (Regime Optimization)       |
-| Portfolio Analyzer (X-Ray)             |
-| Life Event Engine                      |
------------------------------------------
-        ↓
-AI Decision Engine (Agent Logic)
-        ↓
-Actionable Recommendations
-
----
 
 📈 Impact Model
 
