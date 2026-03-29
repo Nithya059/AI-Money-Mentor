@@ -105,7 +105,7 @@ Autonomous decision engine that:
 
 1. Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/AI-Money-Mentor.git
+git clone https://github.com/Nithya059/AI-Money-Mentor.git
 cd AI-Money-Mentor
 
 2. Install Dependencies
